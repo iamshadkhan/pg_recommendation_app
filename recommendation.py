@@ -94,16 +94,15 @@ class PGRecommender:
         results = self.features_df.copy()
         results['Similarity'] = similarities
         
-        # Merge with original data - use suffixes to avoid conflicts
+        # Merge with original data, keep original columns and suffix scaled ones
         merged_results = results.merge(
-            self.original_df, 
-            on='PG_Name', 
+            self.original_df,
+            on='PG_Name',
             how='left',
-            suffixes=('', '_drop')
+            suffixes=('_feat', '')
         )
-        
-        # Remove any duplicate columns
-        merged_results = merged_results.loc[:, ~merged_results.columns.str.endswith('_drop')]
+        # Remove scaled feature columns (suffix _feat), keep original data columns
+        merged_results = merged_results.loc[:, ~merged_results.columns.str.endswith('_feat')]
         
         # Filter top results
         return merged_results.sort_values('Similarity', ascending=False).head(top_n)

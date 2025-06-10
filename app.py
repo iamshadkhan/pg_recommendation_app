@@ -1,4 +1,5 @@
 import streamlit as st
+import joblib
 import pandas as pd
 import numpy as np
 from recommendation import PGRecommender
@@ -7,11 +8,21 @@ from recommendation import PGRecommender
 @st.cache_resource
 def load_recommender():
     try:
-        return PGRecommender()
+        # Load serialized recommender if available
+        recommender = joblib.load('recommender.joblib')
+    except FileNotFoundError:
+        # Build and serialize if not found
+        try:
+            recommender = PGRecommender()
+            joblib.dump(recommender, 'recommender.joblib')
+        except Exception as e:
+            st.error(f"Error building recommender: {e}")
+            st.error("Make sure you've run preprocessing and build_model scripts first")
+            return None
     except Exception as e:
         st.error(f"Error loading recommender: {e}")
-        st.error("Make sure you've run preprocessing.py first")
         return None
+    return recommender
 
 recommender = load_recommender()
 
@@ -87,10 +98,16 @@ if st.sidebar.button("Find PGs", type="primary") or user_data:
             st.error("No PGs match your criteria. Try different preferences.")
         else:
             st.subheader(f"Top {len(results)} Recommendations")
+            # Identify duplicate PG names to disambiguate with location
+            name_counts = results['PG_Name'].value_counts()
             
             # Display results
             for _, row in results.iterrows():
-                with st.expander(f"🏆 {row['PG_Name']} - Similarity: {row['Similarity']:.2f}"):
+                # Append location if PG name appears more than once
+                display_name = row['PG_Name']
+                if name_counts.get(display_name, 0) > 1:
+                    display_name = f"{display_name} ({row['Location']})"
+                with st.expander(f"🏆 {display_name} - Similarity: {row['Similarity']:.2f}"):
                     col1, col2 = st.columns(2)
                     col1.metric("Price", f"₹{row['Price']}")
                     
