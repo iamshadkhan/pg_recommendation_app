@@ -1,0 +1,201 @@
+PG_Name,Location,Price,Gender_Preference,WiFi,Food,AC,Laundry,Parking,Security,Rating,Contact,Distance_to_Metro(km)
+StayEase PG,Pitampura,7720,Women-only,Yes,No,Yes,Yes,Yes,No,4.6,9876549788,1.3
+CityNest,Dwarka,10667,Women-only,Yes,Yes,No,No,Yes,Yes,4.9,9876543553,2.3
+Elite Rooms,Pitampura,12927,Men-only,No,Yes,No,Yes,Yes,Yes,4.6,9876562534,2.1
+CityNest,Gurugram Sector 14,6822,Unisex,Yes,Yes,Yes,Yes,Yes,No,4.7,9876533794,2.6
+BudgetStay,Rohini,11667,Unisex,Yes,Yes,Yes,Yes,No,No,4.0,9876576773,4.1
+UrbanStay PG,Noida Sec 62,8799,Unisex,Yes,Yes,Yes,No,Yes,Yes,5.0,9876576704,4.9
+StayEase PG,Lajpat Nagar,7666,Unisex,Yes,Yes,Yes,No,No,No,3.0,9876532527,0.7
+BudgetStay,Rohini,14554,Unisex,Yes,Yes,Yes,Yes,No,Yes,3.7,9876524383,4.0
+Cosy Homes,Connaught Place,6348,Unisex,Yes,No,Yes,Yes,Yes,No,4.0,9876547619,0.6
+StayEase PG,Lajpat Nagar,10962,Unisex,Yes,Yes,Yes,No,No,No,3.9,9876547506,1.5
+CityNest,Dwarka,12340,Women-only,Yes,Yes,Yes,Yes,No,Yes,3.6,9876545551,3.1
+Cosy Homes,Rohini,10626,Men-only,Yes,Yes,No,No,Yes,Yes,4.7,9876573686,3.2
+UrbanStay PG,Gurugram Sector 14,6093,Unisex,No,No,Yes,No,No,No,3.5,9876597686,4.4
+StayEase PG,Lajpat Nagar,11467,Men-only,Yes,Yes,No,Yes,No,No,4.6,9876513743,0.5
+Cosy Homes,Pitampura,14191,Men-only,No,Yes,Yes,Yes,Yes,Yes,4.0,9876585297,4.4
+Elite Rooms,Delhi University,12941,Women-only,Yes,No,No,Yes,Yes,No,4.7,9876505019,0.4
+ComfortNest,Connaught Place,12354,Men-only,No,No,Yes,No,Yes,No,4.3,9876555843,2.4
+BudgetStay,Saket,12945,Unisex,Yes,No,Yes,Yes,No,Yes,3.0,9876532473,1.8
+NestSide Living,Lajpat Nagar,14233,Women-only,No,No,Yes,Yes,Yes,Yes,4.0,9876506375,3.1
+NestSide Living,Connaught Place,9286,Men-only,No,Yes,No,No,No,No,3.4,9876525840,1.5
+Elite Rooms,Pitampura,13811,Men-only,No,No,Yes,No,No,No,3.9,9876534016,1.0
+Cosy Homes,Delhi University,7337,Men-only,No,No,Yes,Yes,No,Yes,3.2,9876536596,3.4
+NestSide Living,Rohini,6184,Unisex,Yes,No,No,Yes,Yes,Yes,4.7,9876586212,4.4
+Cosy Homes,Lajpat Nagar,12707,Women-only,Yes,Yes,No,No,Yes,Yes,4.8,9876505419,4.4
+UrbanStay PG,Vasant Kunj,13514,Women-only,Yes,Yes,No,No,No,No,3.9,9876561944,4.5
+Elite Rooms,Connaught Place,9345,Unisex,No,No,Yes,No,Yes,Yes,3.4,9876571884,2.6
+GreenView PG,Dwarka,6797,Men-only,No,Yes,No,No,Yes,No,4.6,9876572392,2.9
+UrbanStay PG,Gurugram Sector 14,12887,Men-only,No,No,No,No,Yes,No,4.7,9876560220,2.8
+NestSide Living,Lajpat Nagar,11342,Women-only,Yes,No,No,Yes,Yes,No,3.7,9876587634,0.5
+Royal Residency,Lajpat Nagar,8403,Unisex,No,Yes,No,No,Yes,No,3.3,9876566802,2.5
+UrbanStay PG,Delhi University,6422,Men-only,No,No,No,No,No,No,3.2,9876510804,3.0
+CityNest,Delhi University,14445,Men-only,Yes,No,No,No,Yes,No,3.0,9876554672,0.9
+Royal Residency,Delhi University,10236,Women-only,Yes,Yes,Yes,Yes,Yes,No,4.1,9876579578,0.5
+GreenView PG,Lajpat Nagar,8361,Men-only,Yes,No,Yes,Yes,Yes,Yes,3.9,9876562212,2.4
+Cosy Homes,Pitampura,10392,Women-only,No,Yes,Yes,No,Yes,Yes,4.9,9876547400,4.9
+GreenView PG,Vasant Kunj,11357,Unisex,Yes,Yes,No,No,Yes,Yes,3.1,9876521047,0.5
+Elite Rooms,Rohini,10754,Women-only,No,Yes,Yes,No,Yes,Yes,4.1,9876533834,3.4
+ComfortNest,Vasant Kunj,13900,Women-only,Yes,No,Yes,Yes,No,Yes,4.6,9876577373,0.8
+Cosy Homes,Vasant Kunj,10735,Men-only,Yes,No,No,Yes,No,No,3.6,9876562285,4.5
+Elite Rooms,Delhi University,12708,Unisex,No,No,Yes,Yes,No,Yes,4.4,9876558571,3.6
+Cosy Homes,Connaught Place,6050,Women-only,No,No,Yes,Yes,Yes,No,4.9,9876506433,4.7
+BudgetStay,Rohini,11743,Men-only,Yes,Yes,Yes,Yes,Yes,No,4.7,9876587083,3.4
+StayEase PG,Rohini,14141,Women-only,Yes,No,No,Yes,No,No,4.3,9876507616,3.3
+BudgetStay,Delhi University,11509,Unisex,Yes,No,No,No,Yes,Yes,3.1,9876556162,1.3
+BudgetStay,Rohini,9448,Unisex,Yes,Yes,Yes,Yes,Yes,No,4.7,9876526882,0.8
+StayEase PG,Rohini,11013,Unisex,Yes,No,Yes,Yes,Yes,No,4.5,9876599838,4.7
+StayEase PG,Connaught Place,12958,Unisex,No,No,Yes,Yes,No,Yes,4.8,9876550429,4.6
+BudgetStay,Connaught Place,13226,Women-only,No,Yes,No,No,No,Yes,4.5,9876511302,2.8
+BudgetStay,Rohini,13234,Unisex,No,Yes,No,No,No,Yes,4.6,9876567802,3.7
+GreenView PG,Vasant Kunj,9021,Women-only,Yes,Yes,Yes,No,Yes,Yes,4.4,9876584935,3.2
+Royal Residency,Dwarka,8878,Men-only,Yes,No,Yes,No,Yes,No,3.1,9876525582,4.8
+Elite Rooms,Gurugram Sector 14,10070,Women-only,No,No,No,No,No,No,3.9,9876564261,1.8
+Royal Residency,Connaught Place,8752,Men-only,Yes,No,Yes,Yes,Yes,No,4.0,9876512798,1.8
+CityNest,Noida Sec 62,13562,Unisex,No,Yes,Yes,No,Yes,No,4.5,9876514501,2.5
+Royal Residency,Lajpat Nagar,9435,Women-only,Yes,No,No,Yes,No,Yes,3.9,9876596600,1.9
+StayEase PG,Vasant Kunj,8143,Unisex,Yes,No,No,No,Yes,No,3.7,9876551753,2.0
+StayEase PG,Pitampura,6158,Women-only,No,No,Yes,No,Yes,Yes,4.3,9876518525,4.5
+GreenView PG,Dwarka,14956,Men-only,No,No,No,Yes,Yes,No,3.5,9876547543,0.6
+Cosy Homes,Connaught Place,7242,Men-only,Yes,No,Yes,No,No,No,3.3,9876543793,4.7
+NestSide Living,Gurugram Sector 14,13864,Women-only,Yes,Yes,No,No,No,Yes,3.0,9876552633,3.8
+NestSide Living,Connaught Place,9569,Men-only,Yes,No,Yes,Yes,Yes,No,3.2,9876528514,3.4
+Elite Rooms,Delhi University,14517,Women-only,Yes,Yes,No,Yes,Yes,No,4.0,9876597156,1.4
+ComfortNest,Lajpat Nagar,10465,Men-only,No,No,Yes,No,No,No,3.9,9876521334,4.8
+NestSide Living,Rohini,13996,Unisex,Yes,Yes,No,Yes,No,No,3.0,9876519728,4.5
+CityNest,Connaught Place,13349,Women-only,Yes,Yes,No,No,Yes,Yes,4.1,9876516752,1.7
+UrbanStay PG,Vasant Kunj,13624,Women-only,Yes,Yes,No,No,No,Yes,3.0,9876546661,4.5
+GreenView PG,Rohini,7551,Unisex,No,No,No,Yes,No,No,5.0,9876549804,3.3
+ComfortNest,Saket,6273,Unisex,No,Yes,No,No,No,No,3.4,9876537935,4.4
+Cosy Homes,Gurugram Sector 14,6241,Unisex,Yes,No,No,Yes,No,No,4.4,9876574553,2.8
+Royal Residency,Gurugram Sector 14,10367,Men-only,Yes,No,No,Yes,Yes,No,4.6,9876576688,4.5
+ComfortNest,Pitampura,7738,Men-only,Yes,Yes,No,No,No,No,4.3,9876514501,4.6
+ComfortNest,Pitampura,11684,Women-only,No,No,No,Yes,No,No,4.6,9876554038,0.6
+CityNest,Delhi University,11368,Men-only,Yes,No,Yes,No,Yes,No,3.7,9876564088,3.2
+ComfortNest,Dwarka,12125,Unisex,No,No,Yes,Yes,No,No,4.0,9876554551,2.4
+ComfortNest,Delhi University,14134,Men-only,No,Yes,Yes,Yes,No,No,4.2,9876554516,2.0
+BudgetStay,Lajpat Nagar,6019,Unisex,Yes,No,Yes,Yes,Yes,Yes,3.3,9876576743,1.4
+ComfortNest,Gurugram Sector 14,7754,Men-only,Yes,No,No,Yes,Yes,Yes,3.5,9876559064,1.6
+ComfortNest,Pitampura,14553,Unisex,No,No,No,Yes,No,Yes,3.6,9876535243,3.1
+Royal Residency,Connaught Place,9618,Men-only,Yes,Yes,Yes,Yes,Yes,No,3.9,9876558855,0.4
+ComfortNest,Pitampura,11367,Unisex,No,No,No,Yes,No,Yes,4.8,9876540114,0.6
+ComfortNest,Saket,7249,Men-only,Yes,Yes,Yes,Yes,Yes,No,3.9,9876582560,2.8
+Cosy Homes,Saket,14087,Women-only,No,Yes,Yes,Yes,No,Yes,3.7,9876512388,4.4
+CityNest,Saket,11313,Men-only,No,No,Yes,Yes,No,No,3.6,9876537911,1.0
+CityNest,Lajpat Nagar,11190,Women-only,Yes,No,Yes,Yes,No,No,4.7,9876562450,4.5
+Royal Residency,Dwarka,11886,Men-only,Yes,Yes,Yes,No,No,No,5.0,9876552031,4.2
+NestSide Living,Saket,6795,Men-only,No,Yes,No,No,No,Yes,4.5,9876552229,3.2
+UrbanStay PG,Pitampura,8355,Unisex,Yes,Yes,Yes,No,No,Yes,3.5,9876574202,0.6
+GreenView PG,Connaught Place,8782,Unisex,Yes,Yes,Yes,No,No,Yes,3.4,9876521641,1.4
+StayEase PG,Gurugram Sector 14,14488,Men-only,Yes,No,Yes,No,Yes,Yes,4.0,9876526018,3.0
+NestSide Living,Dwarka,10352,Women-only,Yes,Yes,No,No,No,No,3.9,9876517832,0.7
+Elite Rooms,Noida Sec 62,6504,Unisex,Yes,Yes,Yes,Yes,Yes,No,4.0,9876588967,0.6
+Cosy Homes,Dwarka,8031,Unisex,Yes,No,No,No,Yes,No,4.7,9876552183,2.4
+UrbanStay PG,Gurugram Sector 14,7780,Men-only,Yes,Yes,Yes,No,No,No,3.8,9876538300,5.0
+Cosy Homes,Pitampura,11086,Unisex,No,Yes,Yes,No,No,No,4.3,9876567033,1.4
+Royal Residency,Pitampura,14375,Women-only,No,No,No,No,Yes,No,4.1,9876511438,2.2
+UrbanStay PG,Delhi University,13344,Men-only,Yes,Yes,Yes,No,No,Yes,4.5,9876585604,1.4
+StayEase PG,Gurugram Sector 14,11920,Men-only,Yes,No,Yes,No,Yes,No,4.1,9876598692,4.2
+Royal Residency,Vasant Kunj,13004,Men-only,Yes,No,Yes,Yes,Yes,Yes,4.5,9876572919,3.7
+BudgetStay,Vasant Kunj,12775,Women-only,Yes,Yes,No,No,Yes,Yes,4.4,9876577947,2.9
+Elite Rooms,Lajpat Nagar,9821,Men-only,No,Yes,Yes,Yes,No,No,3.9,9876521307,4.4
+Royal Residency,Gurugram Sector 14,11897,Women-only,No,No,No,No,No,Yes,4.7,9876512444,2.1
+CityNest,Gurugram Sector 14,7045,Unisex,Yes,No,Yes,Yes,Yes,No,3.2,9876508418,1.5
+GreenView PG,Gurugram Sector 14,11970,Women-only,Yes,No,No,Yes,Yes,No,3.0,9876589677,1.9
+Royal Residency,Dwarka,14923,Unisex,Yes,Yes,Yes,No,Yes,No,3.4,9876547899,2.5
+CityNest,Rohini,11120,Men-only,Yes,Yes,No,Yes,No,No,3.2,9876507679,2.0
+CityNest,Pitampura,11331,Unisex,Yes,Yes,Yes,No,No,No,3.7,9876539708,0.6
+ComfortNest,Pitampura,11589,Unisex,No,Yes,Yes,Yes,No,No,4.5,9876583016,0.2
+GreenView PG,Connaught Place,11654,Men-only,No,Yes,No,No,No,Yes,4.2,9876580018,2.1
+Royal Residency,Vasant Kunj,6896,Men-only,No,No,Yes,No,Yes,No,3.2,9876537592,3.4
+Royal Residency,Noida Sec 62,12545,Women-only,No,No,No,No,Yes,Yes,4.2,9876582803,4.9
+NestSide Living,Connaught Place,7772,Men-only,No,No,No,No,Yes,No,4.8,9876516331,2.0
+GreenView PG,Lajpat Nagar,13326,Men-only,No,Yes,No,Yes,Yes,No,3.2,9876594695,1.1
+BudgetStay,Pitampura,7056,Women-only,No,No,Yes,Yes,Yes,Yes,4.4,9876589483,4.1
+CityNest,Dwarka,8801,Men-only,No,No,Yes,No,No,No,4.2,9876554303,0.3
+StayEase PG,Saket,6399,Men-only,No,No,No,Yes,No,Yes,3.3,9876538673,0.4
+BudgetStay,Dwarka,14538,Unisex,Yes,Yes,No,No,Yes,No,4.0,9876597883,3.6
+Elite Rooms,Vasant Kunj,13170,Unisex,Yes,Yes,Yes,Yes,No,No,3.3,9876588019,0.5
+StayEase PG,Pitampura,10455,Men-only,No,No,Yes,Yes,Yes,Yes,4.9,9876520301,1.0
+BudgetStay,Vasant Kunj,13055,Men-only,Yes,Yes,No,No,No,Yes,4.3,9876518605,0.9
+Elite Rooms,Gurugram Sector 14,13442,Women-only,Yes,No,No,No,Yes,No,3.8,9876519837,2.2
+CityNest,Noida Sec 62,7831,Unisex,Yes,Yes,No,No,No,No,4.3,9876589941,4.3
+Cosy Homes,Connaught Place,9221,Women-only,No,Yes,No,Yes,No,No,3.2,9876531165,3.1
+ComfortNest,Lajpat Nagar,7309,Men-only,Yes,No,Yes,No,No,Yes,4.5,9876519830,2.1
+StayEase PG,Pitampura,7201,Unisex,No,No,No,Yes,Yes,No,4.8,9876549231,2.5
+ComfortNest,Dwarka,10608,Men-only,Yes,No,No,Yes,Yes,No,3.3,9876578826,2.9
+BudgetStay,Rohini,8162,Men-only,Yes,Yes,No,No,Yes,No,4.9,9876563475,3.3
+StayEase PG,Delhi University,9677,Men-only,No,Yes,No,Yes,No,Yes,3.8,9876578700,4.6
+BudgetStay,Noida Sec 62,12581,Men-only,Yes,Yes,No,Yes,No,Yes,3.0,9876514546,2.7
+Elite Rooms,Dwarka,12946,Men-only,Yes,Yes,No,No,No,No,4.6,9876515555,3.4
+BudgetStay,Pitampura,12176,Unisex,Yes,No,Yes,Yes,No,Yes,3.4,9876546225,4.2
+BudgetStay,Delhi University,14311,Men-only,No,No,No,Yes,Yes,No,3.2,9876598317,3.8
+BudgetStay,Dwarka,14415,Women-only,Yes,Yes,Yes,No,Yes,No,3.7,9876592264,4.1
+UrbanStay PG,Delhi University,14063,Men-only,No,No,Yes,Yes,Yes,No,3.4,9876572502,4.5
+NestSide Living,Delhi University,9146,Men-only,Yes,Yes,Yes,Yes,No,Yes,3.6,9876508224,0.6
+StayEase PG,Vasant Kunj,14219,Unisex,Yes,Yes,Yes,No,No,Yes,3.2,9876597563,1.6
+BudgetStay,Connaught Place,7470,Unisex,Yes,Yes,Yes,No,Yes,No,3.8,9876569234,4.4
+Cosy Homes,Lajpat Nagar,10617,Unisex,No,Yes,No,No,Yes,Yes,3.4,9876559880,0.5
+BudgetStay,Delhi University,9399,Men-only,Yes,No,No,Yes,Yes,No,4.8,9876590373,1.3
+GreenView PG,Noida Sec 62,10477,Men-only,Yes,Yes,No,Yes,Yes,No,4.6,9876587116,3.8
+GreenView PG,Saket,8060,Men-only,Yes,Yes,Yes,No,Yes,No,4.9,9876519023,2.7
+Cosy Homes,Noida Sec 62,12617,Men-only,No,Yes,Yes,No,No,Yes,4.0,9876557185,0.4
+Cosy Homes,Gurugram Sector 14,8391,Women-only,Yes,Yes,No,Yes,No,Yes,3.4,9876506051,3.2
+ComfortNest,Vasant Kunj,11437,Women-only,No,No,No,Yes,No,Yes,4.0,9876587831,1.0
+Elite Rooms,Connaught Place,14419,Women-only,No,Yes,No,No,Yes,No,3.2,9876594361,3.8
+ComfortNest,Lajpat Nagar,9076,Unisex,No,Yes,Yes,No,No,Yes,4.2,9876518315,1.2
+NestSide Living,Saket,13664,Women-only,Yes,Yes,Yes,No,No,No,4.9,9876513097,1.9
+BudgetStay,Pitampura,12954,Women-only,No,No,No,No,No,Yes,4.4,9876501649,5.0
+Royal Residency,Pitampura,12122,Unisex,Yes,No,Yes,No,Yes,No,3.6,9876594150,3.6
+NestSide Living,Lajpat Nagar,11137,Women-only,No,Yes,Yes,No,Yes,Yes,4.5,9876591864,4.3
+Royal Residency,Saket,6534,Men-only,Yes,Yes,Yes,Yes,No,Yes,4.9,9876503839,0.8
+ComfortNest,Dwarka,7286,Men-only,Yes,Yes,No,No,Yes,Yes,4.9,9876595665,0.4
+Cosy Homes,Lajpat Nagar,10112,Unisex,No,No,Yes,Yes,Yes,No,3.5,9876543976,2.9
+Royal Residency,Dwarka,13201,Men-only,Yes,No,Yes,No,No,No,3.7,9876590780,3.7
+NestSide Living,Vasant Kunj,11625,Unisex,No,No,Yes,No,No,Yes,4.0,9876573559,3.9
+Royal Residency,Gurugram Sector 14,14962,Women-only,No,Yes,Yes,Yes,Yes,No,3.4,9876513063,3.6
+UrbanStay PG,Lajpat Nagar,13824,Unisex,Yes,Yes,Yes,Yes,Yes,No,4.7,9876598079,2.0
+StayEase PG,Saket,10658,Unisex,Yes,Yes,No,No,No,No,4.6,9876532513,1.8
+StayEase PG,Saket,13607,Men-only,Yes,Yes,Yes,Yes,No,No,4.8,9876556916,1.7
+BudgetStay,Delhi University,8268,Women-only,Yes,No,Yes,No,No,No,3.6,9876595438,2.8
+Elite Rooms,Delhi University,9885,Men-only,Yes,No,No,Yes,Yes,No,4.8,9876586310,4.6
+GreenView PG,Vasant Kunj,14033,Women-only,Yes,Yes,No,Yes,No,Yes,3.8,9876514026,1.0
+Elite Rooms,Saket,10583,Men-only,No,Yes,No,No,Yes,No,3.4,9876571594,0.4
+Cosy Homes,Connaught Place,8412,Women-only,Yes,Yes,No,Yes,No,Yes,3.1,9876561037,0.7
+CityNest,Delhi University,7437,Unisex,No,Yes,Yes,No,Yes,No,4.1,9876575719,1.9
+UrbanStay PG,Rohini,10973,Unisex,No,No,Yes,No,Yes,No,4.5,9876597115,4.3
+StayEase PG,Noida Sec 62,8943,Women-only,No,Yes,Yes,No,Yes,Yes,4.0,9876598561,3.0
+BudgetStay,Pitampura,6496,Women-only,Yes,Yes,No,Yes,Yes,Yes,3.7,9876510436,3.6
+GreenView PG,Vasant Kunj,10635,Men-only,Yes,No,No,No,Yes,Yes,3.2,9876596170,2.7
+StayEase PG,Saket,8342,Men-only,Yes,No,Yes,No,Yes,No,4.5,9876555846,3.6
+GreenView PG,Noida Sec 62,9547,Unisex,Yes,No,Yes,No,No,No,3.1,9876509210,2.7
+BudgetStay,Dwarka,8345,Men-only,Yes,No,Yes,Yes,Yes,Yes,4.1,9876526521,4.5
+Cosy Homes,Lajpat Nagar,8088,Women-only,No,No,Yes,No,Yes,Yes,4.4,9876532835,0.4
+Royal Residency,Delhi University,12686,Women-only,No,No,No,No,Yes,No,4.4,9876525326,4.7
+StayEase PG,Pitampura,8843,Men-only,No,Yes,No,No,Yes,Yes,4.7,9876537401,4.1
+Elite Rooms,Rohini,9107,Women-only,No,No,Yes,No,Yes,No,3.3,9876517780,2.5
+ComfortNest,Pitampura,10414,Men-only,No,No,No,No,Yes,Yes,4.9,9876512159,3.2
+StayEase PG,Lajpat Nagar,7275,Unisex,No,Yes,No,Yes,No,No,3.1,9876595910,0.6
+CityNest,Saket,13717,Men-only,Yes,Yes,Yes,Yes,No,No,5.0,9876588499,4.2
+StayEase PG,Lajpat Nagar,6341,Unisex,Yes,Yes,Yes,No,No,No,3.1,9876554352,2.3
+ComfortNest,Lajpat Nagar,11380,Men-only,Yes,No,No,No,No,Yes,4.8,9876517891,0.7
+UrbanStay PG,Noida Sec 62,13849,Men-only,Yes,No,Yes,Yes,Yes,Yes,4.3,9876548780,4.6
+ComfortNest,Connaught Place,6250,Unisex,No,Yes,Yes,Yes,Yes,Yes,3.5,9876534899,3.8
+Elite Rooms,Connaught Place,8296,Unisex,Yes,No,Yes,Yes,Yes,No,3.9,9876521881,3.6
+NestSide Living,Delhi University,6945,Men-only,No,Yes,No,No,Yes,No,3.3,9876596453,3.9
+Elite Rooms,Gurugram Sector 14,13514,Women-only,No,No,Yes,No,Yes,No,5.0,9876507619,0.9
+GreenView PG,Noida Sec 62,10055,Unisex,No,Yes,No,No,Yes,No,3.2,9876530965,1.6
+GreenView PG,Delhi University,7877,Men-only,No,Yes,No,Yes,Yes,No,4.4,9876566484,0.7
+GreenView PG,Connaught Place,12001,Men-only,Yes,No,No,No,Yes,Yes,4.8,9876564604,1.0
+UrbanStay PG,Gurugram Sector 14,9333,Women-only,No,Yes,No,No,No,Yes,4.1,9876532414,0.9
+Royal Residency,Delhi University,6013,Men-only,Yes,Yes,Yes,Yes,No,No,4.4,9876587019,2.0
+UrbanStay PG,Saket,7188,Women-only,No,Yes,Yes,Yes,Yes,Yes,3.9,9876576112,2.4
+Elite Rooms,Lajpat Nagar,7408,Unisex,Yes,Yes,Yes,No,Yes,No,3.9,9876575670,1.6
+Royal Residency,Pitampura,14812,Men-only,Yes,Yes,No,No,No,No,4.3,9876529321,0.7
+ComfortNest,Vasant Kunj,12115,Women-only,Yes,Yes,No,Yes,No,Yes,3.1,9876577802,2.9
+GreenView PG,Noida Sec 62,6888,Women-only,No,No,No,Yes,Yes,Yes,3.8,9876518330,5.0
+CityNest,Connaught Place,14893,Men-only,No,Yes,Yes,No,Yes,Yes,4.5,9876516194,1.3
+Royal Residency,Pitampura,14362,Unisex,Yes,No,Yes,No,Yes,No,3.3,9876569283,0.4
+BudgetStay,Delhi University,10989,Unisex,Yes,No,No,No,No,Yes,3.4,9876588461,2.2
+CityNest,Saket,11461,Unisex,No,No,Yes,No,Yes,Yes,3.6,9876501523,4.2
+ComfortNest,Gurugram Sector 14,12026,Unisex,Yes,No,Yes,No,Yes,Yes,4.4,9876526059,4.8
